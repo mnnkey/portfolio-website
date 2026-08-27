@@ -7,12 +7,15 @@
 
 # Site Settings
 title                    : "Justin Chen"
-description              : ""
+description              : "Justin Chen is an electrical engineering researcher at UC San Diego working on wireless sensing, mmWave radar, robotic perception, and metasurfaces"
 repository               : "mnnkey/portfolio-website"
 google_scholar_stats_use_cdn : true
 
+url: "https://justinichen.com"
+baseurl: ""
+
 # google analytics
-google_analytics_id      : vB5uWMYAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : G-RG24NDWTC3 # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -43,9 +46,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : chnnjustin# e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : 0009-0005-8814-378X # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0009-0005-8814-378X # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

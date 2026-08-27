@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Justin Chen | Wireless Sensing and Robotic Perception Researcher"
+description: "Justin Chen is an electrical engineering researcher at UC San Diego working on wireless sensing, mmWave radar, robotic perception, and metasurfaces."
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -22,12 +23,12 @@ I am a 4th year undergraduate at UC San Diego in the Department of Electrical an
 My research interests are in wireless sensing and communications, robotic perception, signal processing, systems/networking, and machine learning. My previous works span multi-modal sensor fusion with acoustic sensing and imus as well as passive and dynamic metasurface optimizations for scene coverage expansion. Currently, I am working on closed-form and neural based methods of flexible wireless sensing that can enable better than camera perception with non-line-of-sight and material understanding<a href='https://scholar.google.com/citations?user=vB5uWMYAAAAJ'>.
 
 
-# 📰 News
+## 📰 News
 - *2026.08*: &nbsp;🎉 MetaVenom has been Accepted to MOBICOM 2026. 
 - *2026.05*: &nbsp;🎉 FlowForm has been Accepted to SIGCOMM 2026. 
 - *2025.07*: &nbsp;🎉 Ultraposer has been Accepted to UIST 2025. 
 
-# 📝 Publications 
+## 📝 Publications 
 
 <div class="publication-list">
   <article class="publication-card">
@@ -36,7 +37,7 @@ My research interests are in wireless sensing and communications, robotic percep
       <img src="{{ '/images/publication_previews/metavenom_preview.jpg' | relative_url }}" alt="MetaVenom programmable passive metasurface cells" loading="lazy">
     </div>
     <div class="publication-card__body">
-      <h2 class="publication-card__title">MetaVenom: Field Programmable Fully Passive Metasurfaces</h2>
+      <h3 class="publication-card__title">MetaVenom: Field Programmable Fully Passive Metasurfaces</h3>
       <p class="publication-card__authors">Baicheng Chen, <strong>Justin Chen</strong>, Wuqiong Zhao, Kai Zheng, Xinyu Zhang</p>
       <p class="publication-card__publication"><em>Accepted at ACM MobiCom</em>, 2026</p>
       <p class="publication-card__summary">A field-programmable, fully passive metasurface that uses electrically morphable ferrofluid cells to reconfigure mmWave propagation for beamforming and joint radar-communication applications.</p>
@@ -52,7 +53,7 @@ My research interests are in wireless sensing and communications, robotic percep
       <img src="{{ '/images/publication_previews/flowform_preview.png' | relative_url }}" alt="FlowForm network of passive metasurfaces extending mmWave coverage" loading="lazy">
     </div>
     <div class="publication-card__body">
-      <h2 class="publication-card__title">FlowForm: Scalable Passive Metasurface Network for mmWave Coverage Expansion</h2>
+      <h3 class="publication-card__title">FlowForm: Scalable Passive Metasurface Network for mmWave Coverage Expansion</h3>
       <p class="publication-card__authors">Wuqiong Zhao, Baicheng Chen, Kai Zheng, Xingyu Chen, Wenqian Zhang, Xinyu Zhang</p>
       <p class="publication-card__publication"><em>In Proceedings of ACM SIGCOMM</em>, 2026</p>
       <p class="publication-card__summary">FlowForm optimizes the placement and design of low-cost passive metasurfaces into directional relay chains and wide-area fan beams, expanding mmWave coverage without power, control channels, or runtime coordination.</p>
@@ -71,7 +72,7 @@ My research interests are in wireless sensing and communications, robotic percep
       <img src="{{ '/images/publication_previews/ultraposer_preview.jpg' | relative_url }}" alt="UltraPoser IMU and ultrasound full-body pose estimation overview" loading="lazy">
     </div>
     <div class="publication-card__body">
-      <h2 class="publication-card__title">UltraPoser: Pushing the Limits of IMU-based Full-Body Pose Estimation with Ultrasound Sensing on Consumer Wearables</h2>
+      <h3 class="publication-card__title">UltraPoser: Pushing the Limits of IMU-based Full-Body Pose Estimation with Ultrasound Sensing on Consumer Wearables</h3>
       <p class="publication-card__authors">Yadong Li, Shuning Wang, Yongjian Fu, <strong>Justin Chen</strong>, Xingyu Chen, Ju Ren, Xinyu Zhang, Akshay Gadre, Ke Sun</p>
       <p class="publication-card__publication"><em>In ACM Symposium on User Interface Software and Technology</em>, 2025</p>
       <p class="publication-card__summary">Full-body pose estimation that combines wearable IMU measurements with ultrasound sensing on consumer devices.</p>
@@ -85,7 +86,7 @@ My research interests are in wireless sensing and communications, robotic percep
   </article>
 </div>
 
-# 💻 Projects
+## 💻 Projects
 
 <div class='paper-box-simple' markdown="1">
 mmWaveX (ongoing)
@@ -117,11 +118,11 @@ Ultraposer
 
 </div>
 
-# 🎖 Honors and Awards
+## 🎖 Honors and Awards
 - *2023.09 - Present*: &emsp; **Provost Honors, UCSD**
 - *2023.06*: &emsp; **UC San Diego Jacobs Engineering Scholarship: a merit based full ride scholarship (one of 30)**
 
-# 📖 Education
+## 📖 Education
 - *2023.09 - 2027.06 (expected)*, UC San Diego \\
 &emsp; B.S. Electrical Engineering \\
 &emsp; GPA: 3.94/4.00
