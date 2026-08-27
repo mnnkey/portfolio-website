@@ -24,7 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Justin Chen"
+  name             : "Justin I. Chen"
+  full_name        : "Justin Isaac Chen"
   avatar           : "images/head-icon.jpg"
   bio              : "UC San Diego"
   location         : "San Diego, CA"
