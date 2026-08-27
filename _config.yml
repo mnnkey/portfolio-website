@@ -24,8 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Justin I. Chen"
-  full_name        : "Justin Isaac Chen"
+  name             : "Justin Isaac Chen"
   avatar           : "images/head-icon.jpg"
   bio              : "UC San Diego"
   location         : "San Diego, CA"
@@ -140,7 +139,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
