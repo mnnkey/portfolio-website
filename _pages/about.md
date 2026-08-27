@@ -17,42 +17,110 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a 4th year undergraduate at UC San Diego in the Department of Electrical and Computer Engineering, advised by Professor [Xinyu Zhang](https://xyzhang.ucsd.edu/index.html). I am also working with Professor [Tara Boroushaki](https://www.tara-boroushaki.com/bio) at Yale on applying wireless radar perception to robotics in real time.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests are in wireless sensing and communications, robotic perception, signal processing, systems/networking, and machine learning. My previous works span multi-modal sensor fusion with acoustic sensing and imus as well as passive and dynamic metasurface optimizations for scene coverage expansion. Currently, I am working on closed-form and neural based methods of flexible wireless sensing that can enable better than camera perception with non-line-of-sight and material understanding<a href='https://scholar.google.com/citations?user=vB5uWMYAAAAJ'>.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📰 News
+- *2026.08*: &nbsp;🎉 MetaVenom has been Accepted to MOBICOM 2026. 
+- *2026.05*: &nbsp;🎉 FlowForm has been Accepted to SIGCOMM 2026. 
+- *2025.07*: &nbsp;🎉 Ultraposer has been Accepted to UIST 2025. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="publication-list">
+  <article class="publication-card">
+    <div class="publication-card__media">
+      <span class="publication-card__venue">MobiCom '26</span>
+      <img src="{{ '/images/publication_previews/metavenom_preview.jpg' | relative_url }}" alt="MetaVenom programmable passive metasurface cells" loading="lazy">
+    </div>
+    <div class="publication-card__body">
+      <h2 class="publication-card__title">MetaVenom: Field Programmable Fully Passive Metasurfaces</h2>
+      <p class="publication-card__authors">Baicheng Chen, <strong>Justin Chen</strong>, Wuqiong Zhao, Kai Zheng, Xinyu Zhang</p>
+      <p class="publication-card__publication"><em>Accepted at ACM MobiCom</em>, 2026</p>
+      <p class="publication-card__summary">A field-programmable, fully passive metasurface that uses electrically morphable ferrofluid cells to reconfigure mmWave propagation for beamforming and joint radar-communication applications.</p>
+      <div class="publication-card__links">
+        <span class="publication-card__status">Paper coming soon</span>
+      </div>
+    </div>
+  </article>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  <article class="publication-card">
+    <div class="publication-card__media">
+      <span class="publication-card__venue">SIGCOMM '26</span>
+      <img src="{{ '/images/publication_previews/flowform_preview.png' | relative_url }}" alt="FlowForm network of passive metasurfaces extending mmWave coverage" loading="lazy">
+    </div>
+    <div class="publication-card__body">
+      <h2 class="publication-card__title">FlowForm: Scalable Passive Metasurface Network for mmWave Coverage Expansion</h2>
+      <p class="publication-card__authors">Wuqiong Zhao, Baicheng Chen, Kai Zheng, Xingyu Chen, Wenqian Zhang, Xinyu Zhang</p>
+      <p class="publication-card__publication"><em>In Proceedings of ACM SIGCOMM</em>, 2026</p>
+      <p class="publication-card__summary">FlowForm organizes low-cost passive metasurfaces into directional relay chains and wide-area fan beams, expanding mmWave coverage without power, control channels, or runtime coordination.</p>
+      <p class="publication-card__note"><strong>Justin Chen</strong> is acknowledged for contributions to this work.</p>
+      <div class="publication-card__links">
+        <a href="https://flowform.wqzhao.org/">Project</a>
+        <a href="https://wqzhao.org/assets/zhao2026flowform.pdf">PDF</a>
+        <a href="https://doi.org/10.1145/3789240.3829102">DOI</a>
+      </div>
+    </div>
+  </article>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  <article class="publication-card">
+    <div class="publication-card__media">
+      <span class="publication-card__venue">UIST '25</span>
+      <img src="{{ '/images/publication_previews/ultraposer_preview.jpg' | relative_url }}" alt="UltraPoser IMU and ultrasound full-body pose estimation overview" loading="lazy">
+    </div>
+    <div class="publication-card__body">
+      <h2 class="publication-card__title">UltraPoser: Pushing the Limits of IMU-based Full-Body Pose Estimation with Ultrasound Sensing on Consumer Wearables</h2>
+      <p class="publication-card__authors">Yadong Li, Shuning Wang, Yongjian Fu, <strong>Justin Chen</strong>, Xingyu Chen, Ju Ren, Xinyu Zhang, Akshay Gadre, Ke Sun</p>
+      <p class="publication-card__publication"><em>In ACM Symposium on User Interface Software and Technology</em>, 2025</p>
+      <p class="publication-card__summary">Full-body pose estimation that combines wearable IMU measurements with ultrasound sensing on consumer devices.</p>
+      <div class="publication-card__links">
+        <a href="https://doi.org/10.1145/3746059.3747714">Paper</a>
+        <a href="https://youtu.be/P93l3j6mSCw">Video</a>
+        <a href="https://github.com/leeyadong/UltraPoser">Code &amp; Data</a>
+      </div>
+    </div>
+  </article>
 </div>
+
+# 💻 Projects
+
+<div class='paper-box-simple' markdown="1">
+mmWaveX (ongoing)
+- Cross polarization radars for real time scene reconstruction
+
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box-simple' markdown="1">
+mmGrasp (ongoing)
+- Flexible mmWave FMCW Radar Sparse Array for flexible Tomographic object perception
+
+</div>
+
+<div class='paper-box-simple' markdown="1">
+MetaVenom
+- Quasi-Dynamic Metasurrfaces with Ferrofluid
+
+</div>
+
+<div class='paper-box-simple' markdown="1">
+FlowForm
+- mmWave Metasurface scene design and placement joint optimization for coverage expansion and spatial multiplexing
+
+</div>
+
+<div class='paper-box-simple' markdown="1">
+Ultraposer
+- IMU + Acoustic Sensing Pose Estimation
+
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Present*: &emsp; **Provost Honors, UCSD**
+- *2023.06*: &emsp; **UC San Diego Jacobs Engineering Scholarship: a merit based full ride scholarship (one of 30)**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - 2027.06 (expected)*, UC San Diego \\
+&emsp; B.S. Electrical Engineering \\
+&emsp; GPA: 3.94/4.00

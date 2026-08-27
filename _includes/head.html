@@ -10,8 +10,20 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<script>
+  // Apply a saved theme before the stylesheet loads to prevent a flash.
+  try {
+    var savedTheme = localStorage.getItem('theme-preference');
+    var initialTheme = savedTheme === 'dark' || savedTheme === 'light'
+      ? savedTheme
+      : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', initialTheme);
+  } catch (error) {}
+</script>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="{{ '/assets/css/theme.css' | relative_url }}">
 
 <meta http-equiv="cleartype" content="on">
 <head>

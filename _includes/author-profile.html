@@ -112,6 +112,7 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      <li><a href="{{ '/files/cv.pdf' | relative_url }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a></li>
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
@@ -207,6 +208,7 @@
       {% if author.orcid %}
         <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
       {% endif %}
+      <a href="{{ '/files/cv.pdf' | relative_url }}" aria-label="CV"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
       {% if author.impactstory %}
         <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i></a>
       {% endif %}
