@@ -55,11 +55,11 @@ My research interests are in wireless sensing and communications, robotic percep
       <h2 class="publication-card__title">FlowForm: Scalable Passive Metasurface Network for mmWave Coverage Expansion</h2>
       <p class="publication-card__authors">Wuqiong Zhao, Baicheng Chen, Kai Zheng, Xingyu Chen, Wenqian Zhang, Xinyu Zhang</p>
       <p class="publication-card__publication"><em>In Proceedings of ACM SIGCOMM</em>, 2026</p>
-      <p class="publication-card__summary">FlowForm organizes low-cost passive metasurfaces into directional relay chains and wide-area fan beams, expanding mmWave coverage without power, control channels, or runtime coordination.</p>
+      <p class="publication-card__summary">FlowForm optimizes the placement and design of low-cost passive metasurfaces into directional relay chains and wide-area fan beams, expanding mmWave coverage without power, control channels, or runtime coordination.</p>
       <p class="publication-card__note"><strong>Justin Chen</strong> is acknowledged for contributions to this work.</p>
       <div class="publication-card__links">
         <a href="https://flowform.wqzhao.org/">Project</a>
-        <a href="https://wqzhao.org/assets/zhao2026flowform.pdf">PDF</a>
+        <a href="https://dl.acm.org/doi/epdf/10.1145/3789240.3829102">PDF</a>
         <a href="https://doi.org/10.1145/3789240.3829102">DOI</a>
       </div>
     </div>
@@ -76,7 +76,8 @@ My research interests are in wireless sensing and communications, robotic percep
       <p class="publication-card__publication"><em>In ACM Symposium on User Interface Software and Technology</em>, 2025</p>
       <p class="publication-card__summary">Full-body pose estimation that combines wearable IMU measurements with ultrasound sensing on consumer devices.</p>
       <div class="publication-card__links">
-        <a href="https://doi.org/10.1145/3746059.3747714">Paper</a>
+        <a href="https://dl.acm.org/doi/epdf/10.1145/3746059.3747714">PDF</a>
+        <a href="https://doi.org/10.1145/3746059.3747714">DOI</a>
         <a href="https://youtu.be/P93l3j6mSCw">Video</a>
         <a href="https://github.com/leeyadong/UltraPoser">Code &amp; Data</a>
       </div>
@@ -120,7 +121,7 @@ Ultraposer
 - *2023.09 - Present*: &emsp; **Provost Honors, UCSD**
 - *2023.06*: &emsp; **UC San Diego Jacobs Engineering Scholarship: a merit based full ride scholarship (one of 30)**
 
-# 📖 Educations
+# 📖 Education
 - *2023.09 - 2027.06 (expected)*, UC San Diego \\
 &emsp; B.S. Electrical Engineering \\
 &emsp; GPA: 3.94/4.00
