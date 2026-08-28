@@ -86,7 +86,7 @@
   "mainEntity": {
     "@type": "Person",
     "@id": "https://justinichen.com/#person",
-      "name": "{{ site.author.name }}"
+    "name": {{ site.author.name | jsonify }},
     "url": "https://justinichen.com/",
     "image": "https://justinichen.com/images/head-icon.jpg",
     "jobTitle": "Undergraduate Researcher",
