@@ -24,6 +24,7 @@ My research interests are in wireless sensing and communications, robotic percep
 
 
 ## 📰 News
+- *2026.10*: &nbsp;📰 Presented MetaVenom at MOBICOM 2026. 
 - *2026.08*: &nbsp;🎉 MetaVenom has been Accepted to MOBICOM 2026. 
 - *2026.05*: &nbsp;🎉 FlowForm has been Accepted to SIGCOMM 2026. 
 - *2025.07*: &nbsp;🎉 Ultraposer has been Accepted to UIST 2025. 
@@ -42,7 +43,10 @@ My research interests are in wireless sensing and communications, robotic percep
       <p class="publication-card__publication"><em>Accepted at ACM MobiCom</em>, 2026</p>
       <p class="publication-card__summary">A field-programmable, fully passive metasurface that uses electrically morphable ferrofluid cells to reconfigure mmWave propagation for beamforming and joint radar-communication applications.</p>
       <div class="publication-card__links">
-        <span class="publication-card__status">Paper coming soon</span>
+        <a href="https://dl.acm.org/doi/epdf/10.1145/3795866.3844150">PDF</a>
+        <a href="https://doi.org/10.1145/3795866.3844150">DOI</a>
+        <a href="https://youtu.be/wuRgB4p0uwo">Video</a>
+        <a href="https://github.com/baichengchen/MetaVenom_MobiCom2026">Code &amp; Data</a>
       </div>
     </div>
   </article>
